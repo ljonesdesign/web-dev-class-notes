@@ -1,0 +1,32 @@
+body {
+	background:#F8F8F8;
+    font-family: 'Roboto Slab', serif;
+    max-width: 800px;
+	margin:auto;
+	padding: 10px;
+	border-bottom: 5px;
+}
+
+h1 {
+	color:#4B9CD3;
+	font-size: 300%;
+	}
+
+h2 {color: #13294B;
+	font-size: 150%
+}
+
+
+/* Charcoal */
+p  {
+	color:#373737;
+	line-height: 150%;
+
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
